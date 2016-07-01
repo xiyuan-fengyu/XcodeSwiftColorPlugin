@@ -2,7 +2,7 @@
 //  ColorWell.swift
 //  SwiftColorPlugin
 //
-//  Created by 123456 on 16/6/21.
+//  Created by xiyuan_fengyu on 16/6/21.
 //  Copyright © 2016年 xiyuan. All rights reserved.
 //
 

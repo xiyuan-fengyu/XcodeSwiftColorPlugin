@@ -1,6 +1,6 @@
 
 ##SwiftColorPlugin
-专门用于Swift的Xcode颜色插件，可以在编写代码的时候预览和修改颜色代码，目前只是别如下格式的颜色代码
+专门用于Swift的Xcode颜色插件，可以在编写代码的时候预览和修改颜色代码，目前只识别如下格式的颜色代码
 <br>
 "#ffffff".toColor
 <br>
