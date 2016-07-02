@@ -8,7 +8,7 @@
 <br>
 "#ffffffff".toColor
 <br>
-需要自行写一个String转UIColor的扩展，这个扩展的实现可以参考 https://github.com/xiyuan-fengyu/IOS/blob/master/IOSSwiftDemos/IOSSwiftDemos/StringUtil.swift
+需要自行写一个String转UIColor的扩展，这个扩展的实现可以参考 https://github.com/xiyuan-fengyu/IOSSwiftDemos/blob/master/IOSSwiftDemos/IOSSwiftDemos/StringUtil.swift
 <br>
 <br>
 <br>
